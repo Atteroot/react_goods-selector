@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACE,mBACE,kBAAmB,CACpB,UAID,UAAW,CACX,qBAAwB","file":"main.2a3d88a0.chunk.css","sourcesContent":[".good-list {\n  &__button {\n    margin: 0 10px 10px;\n  }\n}\n\n.selected {\n  width: 85px;\n  border: 3px solid yellow;\n}\n"]}
